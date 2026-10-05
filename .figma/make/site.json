@@ -1,0 +1,10 @@
+{
+  "description": "A multi-tenant school communication platform enabling parents, students, teachers, and admins to chat, share content, manage homework, and access dashboards.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
